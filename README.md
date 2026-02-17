@@ -15,7 +15,7 @@ I aim to leverage my cloud security skills to protect digital assets, secure clo
 
 | Project                                       | Project link         |
 |-----------------------------------------------|----------------------------|
-| Nessus Vulnerability Scanning | <a href="https://github.com/nuelcyber/Nessus-Vulnerability-Scanning">Nessus Vulnerability Scanning</a>|
+| Azure Role-Based Access Control Implementation Lab | <a href="https://github.com/iyanuyags/Azure-Role-Based-Access-Control">Azure Role-Based Access Control Implementation Lab</a>|
 | Network traffic analysis with Wireshark| <a href="https://github.com/nuelcyber/Network-Analysis-using-Wireshark">Network Traffic Analysis</a>|
 | Setting up a virtual network using PacketTracer| <a href="https://github.com/nuelcyber/Virtual-Network-on-Packet-Tracer">Virtual Network on PacketTracer</a>|
 | Web Application testing using ZAProxy| <a href="https://github.com/nuelcyber/Web-Application-Testing-using-ZAProxy">Web Application Testing</a>|
