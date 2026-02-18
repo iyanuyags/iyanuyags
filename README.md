@@ -1,6 +1,5 @@
 ## Hello, I'm Iyanuoluwa Tolu-Ilori
 <a href="https://www.linkedin.com/in/iyanuoluwa-tolu-ilori"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
-<a href="https://x.com/nuel_og"><img src="https://img.shields.io/badge/-X-black?style=for-the-badge&logo=X&logoColor=white" /></a>
 <a href="https://www.credly.com/badges/cf2ade6b-8712-4244-b230-7869b301cfb3/public_url"><img src="https://img.shields.io/badge/SECURITY%2B-red?style=for-the-badge&logo=CompTIA&logoColor=black" /></a>
 
 ## About Me
