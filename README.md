@@ -24,7 +24,7 @@ I aim to leverage my cloud security skills to protect digital assets, secure clo
 <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 <img src="https://img.shields.io/badge/-Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer" />
 <img src="https://img.shields.io/badge/-Kali%20Linux-262626?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
-<img src="https://img.shields.io/badge/-Kali%20Linux-262626?style=for-the-badge&logo=Azure&logoColor=white" alt="Microsoft Azure" />
+<img src="https://img.shields.io/badge/Microsoft_Azure-blue?style=for-the-badge&logo=microsoft&logoColor=red&labelColor=white" alt="Microsoft Azure" />
 
 
   
