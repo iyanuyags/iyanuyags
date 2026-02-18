@@ -4,7 +4,7 @@
 <a href="https://www.credly.com/badges/cf2ade6b-8712-4244-b230-7869b301cfb3/public_url"><img src="https://img.shields.io/badge/SECURITY%2B-red?style=for-the-badge&logo=CompTIA&logoColor=black" /></a>
 
 ## About Me
-Cloud Security Professional focused on securing cloud environments and supporting security operations, with hands-on experience in vulnerability management, threat detection, incident response, cloud network security, identity and access management (IAM), firewall and security group configuration, and security monitoring across cloud platforms. I possess a strong analytical and problem-solving mindset, and I am highly motivated to continuously learn, adapt to emerging cloud threats, and contribute to building resilient and secure cloud infrastructures.
+Cloud Security Professional focused on securing Azure cloud environments and supporting security operations, with hands-on experience in vulnerability management, threat detection, incident response, cloud network security, identity and access management (IAM), firewall and security group configuration, and security monitoring across cloud platforms. I possess a strong analytical and problem-solving mindset, and I am highly motivated to continuously learn, adapt to emerging cloud threats, and contribute to building resilient and secure cloud infrastructures.
 
 
 ## Objective
