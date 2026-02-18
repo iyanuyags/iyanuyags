@@ -15,7 +15,7 @@ I aim to leverage my cloud security skills to protect digital assets, secure clo
 
 | Project                                       | Project link         |
 |-----------------------------------------------|----------------------------|
-| Azure Role-Based Access Control Implementation Lab | <a href="https://github.com/iyanuyags/Azure-Role-Based-Access-Control">Azure Role-Based Access Control Implementation Lab</a>|
+| Azure Role-Based Access Control Implementation Lab | <a href="https://github.com/iyanuyags/Azure-Role-Based-Access-Control">Azure Role-Based Access Control Lab</a>|
 
 
 ## Tools
@@ -42,7 +42,7 @@ I aim to leverage my cloud security skills to protect digital assets, secure clo
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/CC-white?style=for-the-badge&logo=ISC2&logoColor=White&logoSize=auto&color=deepgreen" />
+<a href="https://www.credly.com/badges/cf2ade6b-8712-4244-b230-7869b301cfb3/public_url"><img src="https://img.shields.io/badge/SECURITY%2B-red?style=for-the-badge&logo=CompTIA&logoColor=black" /></a>
 
 </div>
 
@@ -52,5 +52,5 @@ I aim to leverage my cloud security skills to protect digital assets, secure clo
 
 ## Connect With Me
 - Email: iyanuilori@gmail.com
-- Phone Number: +16057870289
+- Phone Number: +1 (605) 787-0289
 
