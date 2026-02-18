@@ -1,5 +1,5 @@
 ## Hello, I'm Iyanuoluwa Tolu-Ilori
-<a href="https://www.linkedin.com/in/oluwatobi-emmanuel-owoeye"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/iyanuoluwa-tolu-ilori"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
 <a href="https://x.com/nuel_og"><img src="https://img.shields.io/badge/-X-black?style=for-the-badge&logo=X&logoColor=white" /></a>
 <a href="https://www.credly.com/badges/cf2ade6b-8712-4244-b230-7869b301cfb3/public_url"><img src="https://img.shields.io/badge/SECURITY%2B-red?style=for-the-badge&logo=CompTIA&logoColor=black" /></a>
 
@@ -8,7 +8,7 @@ Cloud Security Professional focused on securing cloud environments and supportin
 
 
 ## Objective
-I aim to leverage my cloud security skills to protect digital assets, secure cloud infrastructures, and enhance system resilience. I aspire to contribute to a forward-thinking cloud security team as a Cloud Security Analyst, where I can apply my expertise in cloud governance, identity and access management, threat detection, and security monitoring—along with my continuous learning mindset and passion for secure innovation—to mitigate risks and strengthen the organization’s overall cloud security posture.
+I aim to leverage my cloud security skills to protect digital assets, secure cloud infrastructures, and enhance system resilience. I aspire to contribute to a forward-thinking cloud security team as a Cloud Security Analyst, where I can apply my expertise in cloud governance, identity and access management, threat detection, and security monitoring along with my continuous learning mindset and passion for secure innovation to mitigate risks and strengthen the organization’s overall cloud security posture.
 
 
 ## Hands-on Projects
