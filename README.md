@@ -1,4 +1,4 @@
-## Hello, I'm IyanuoluwaTolu-Ilori
+## Hello, I'm Iyanuoluwa Tolu-Ilori
 <a href="https://www.linkedin.com/in/oluwatobi-emmanuel-owoeye"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
 <a href="https://x.com/nuel_og"><img src="https://img.shields.io/badge/-X-black?style=for-the-badge&logo=X&logoColor=white" /></a>
 <a href="https://www.credly.com/badges/cf2ade6b-8712-4244-b230-7869b301cfb3/public_url"><img src="https://img.shields.io/badge/CC-white?style=for-the-badge&logo=CompT&logoColor=White&logoSize=auto&color=red" /></a>
@@ -16,16 +16,6 @@ I aim to leverage my cloud security skills to protect digital assets, secure clo
 | Project                                       | Project link         |
 |-----------------------------------------------|----------------------------|
 | Azure Role-Based Access Control Implementation Lab | <a href="https://github.com/iyanuyags/Azure-Role-Based-Access-Control">Azure Role-Based Access Control Implementation Lab</a>|
-| Network traffic analysis with Wireshark| <a href="https://github.com/nuelcyber/Network-Analysis-using-Wireshark">Network Traffic Analysis</a>|
-| Setting up a virtual network using PacketTracer| <a href="https://github.com/nuelcyber/Virtual-Network-on-Packet-Tracer">Virtual Network on PacketTracer</a>|
-| Web Application testing using ZAProxy| <a href="https://github.com/nuelcyber/Web-Application-Testing-using-ZAProxy">Web Application Testing</a>|
-| SQL injection Simulation using Burpe Suite| <a href="https://github.com/nuelcyber/SQL-Injection-Simulation">SQL Injection Simulation</a>|
-| Hacking of Metasploitable 2| <a href="https://github.com/nuelcyber/Hacking-of-Metasploitable-2">Hacking of Metasploitable 2</a>|
-| Social Engineering Simulation| <a href="https://github.com/nuelcyber/Social-Engineering-Simulation">Social Engineering Simulation</a>|
-| Malware Analysis| <a href="https://github.com/nuelcyber/Malware-Analysis">Malware Analysis</a>|
-| Domain Analysis| <a href="https://github.com/nuelcyber/Domain-Analysis">Domain Analysis</a>|
-| Network Reconnaissance using Nmap| <a href="https://github.com/nuelcyber/Network-Reconnaissance-using-Nmap">Network Reconnaissance</a>|
-| Overthewire Bandit CTF| <a href="https://github.com/nuelcyber/Overthewire-Bandit-CTF">Overthewire Bandit CTF</a>|
 
 
 ## Tools
