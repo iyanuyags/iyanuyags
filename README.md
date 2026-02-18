@@ -16,6 +16,8 @@ I aim to leverage my cloud security skills to protect digital assets, secure clo
 |-----------------------------------------------|----------------------------|
 | Azure Role-Based Access Control Implementation Lab | <a href="https://github.com/iyanuyags/Azure-Role-Based-Access-Control">Azure Role-Based Access Control Lab</a>|
 | Azure Network Segmentation Using ASGs and NSGs | <a href="https://github.com/iyanuyags/Azure-Network-Segmentation-Using-ASGs-and-NSGs">Azure Network Segmentation Lab</a>|
+| Network Traffic Analysis Using Wireshark | <a href="https://github.com/iyanuyags/Network-Traffic-Analysis-Using-Wireshark">Network Traffic Analysis Using Wireshark</a>|
+| Domain Name Analysis | <a href="https://github.com/iyanuyags/Domain-Name-Analysis">Domain Name Analysis</a>|
 
 ## Tools
 ### Network Tools
