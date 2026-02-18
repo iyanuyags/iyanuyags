@@ -15,7 +15,7 @@ I aim to leverage my cloud security skills to protect digital assets, secure clo
 | Project                                       | Project link         |
 |-----------------------------------------------|----------------------------|
 | Azure Role-Based Access Control Implementation Lab | <a href="https://github.com/iyanuyags/Azure-Role-Based-Access-Control">Azure Role-Based Access Control Lab</a>|
-
+| Azure Network Segmentation Using ASGs and NSGs | <a href="https://github.com/iyanuyags/Azure-Network-Segmentation-Using-ASGs-and-NSGs">Azure Network Segmentation Lab</a>|
 
 ## Tools
 ### Network Tools
