@@ -34,7 +34,6 @@ I aim to leverage my cloud security skills to protect digital assets, secure clo
 ### SIEM Tools
 <div>    
 <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-<img src="https://img.shields.io/badge/Wazuh-white?style=for-the-badge&logo=Wazuh&logoColor=red&logoSize=auto&color=blue" />
 <img src="https://img.shields.io/badge/MICROSOFT%20SENTINEL-blue?style=for-the-badge" />
 
 
